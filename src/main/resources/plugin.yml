@@ -1,0 +1,4 @@
+name: EntityControl
+version: '${version}'
+main: kr.kro.izen.entitycontrol.EntityControl
+api-version: '1.20'
